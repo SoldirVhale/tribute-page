@@ -118,7 +118,7 @@ ul > li {
     display: flex;
     flex-direction: column;
     font-style: italic ;
-    color: white;
+    color: gray;
 
 }
 
